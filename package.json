@@ -5,12 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "vitest",
+    "test": "node --test",
     "start": "node demo.js"
   },
   "author": "",
-  "license": "MIT",
-  "devDependencies": {
-    "vitest": "1.5.1"
-  }
+  "license": "MIT"
 }
